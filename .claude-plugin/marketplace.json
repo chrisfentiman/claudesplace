@@ -1,0 +1,16 @@
+{
+  "name": "claudesplace",
+  "owner": {
+    "name": "Chris Fentiman"
+  },
+  "plugins": [
+    {
+      "name": "claude-context-cli",
+      "description": "Auto-indexing CLI for claude-context-mcp. Keeps your codebase index fresh on session start, after git operations, and on session end.",
+      "source": {
+        "source": "github",
+        "repo": "chrisfentiman/claude-context-cli"
+      }
+    }
+  ]
+}
