@@ -11,6 +11,14 @@
         "source": "url",
         "url": "https://github.com/chrisfentiman/claude-context-cli.git"
       }
+    },
+    {
+      "name": "memsearch-enhanced",
+      "description": "Enhanced memory hooks and skills for memsearch. Better summarization, improved recall, and insights skill.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chrisfentiman/memsearch-enhanced.git"
+      }
     }
   ]
 }
